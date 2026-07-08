@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
