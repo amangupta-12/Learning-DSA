@@ -46,4 +46,20 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
