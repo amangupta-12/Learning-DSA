@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
@@ -36,6 +37,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -50,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
