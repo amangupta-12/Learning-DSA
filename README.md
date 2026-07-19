@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
