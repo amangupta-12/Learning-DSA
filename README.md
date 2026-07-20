@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -134,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
