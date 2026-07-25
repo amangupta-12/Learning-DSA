@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -110,6 +112,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -163,6 +167,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
