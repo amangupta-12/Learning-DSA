@@ -62,6 +62,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
 ## Queue
 |  |
 | ------- |
