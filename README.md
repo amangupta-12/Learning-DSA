@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
@@ -37,6 +38,7 @@
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
@@ -137,11 +139,13 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 ## String
 |  |
