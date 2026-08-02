@@ -32,6 +32,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
