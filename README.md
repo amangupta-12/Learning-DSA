@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/amangupta-12/Learning-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
@@ -141,6 +142,7 @@
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
