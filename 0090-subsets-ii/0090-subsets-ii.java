@@ -1,22 +1,21 @@
 class Solution {
-    private void solve(int[] nums,int idx,HashSet<List<Integer>> result,ArrayList<Integer> curr){
-        if(idx >= nums.length){
+    private void solve(int[] nums,int idx,List<List<Integer>> result,ArrayList<Integer> curr){
+        
             result.add(new ArrayList<>(curr));
-            return;
-        }
-        curr.add(nums[idx]);
-        solve(nums,idx+1,result,curr);
+        for(int i=idx;i<nums.length;i++){
+            if(i>idx && nums[i] == nums[i-1]) continue; 
+        curr.add(nums[i]);
+        solve(nums,i+1,result,curr);
         curr.remove(curr.size()-1);
-        solve(nums,idx+1,result,curr);
+        }
     }
     
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        HashSet<List<Integer>> result = new HashSet<>();
+       List<List<Integer>> result = new ArrayList<>();
         ArrayList<Integer> curr = new ArrayList<>();
 
         solve(nums,0,result,curr);
-        List<List<Integer>> ans = new ArrayList<>(result);
-        return ans;
+        return result;
     }
 }
