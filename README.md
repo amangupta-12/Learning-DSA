@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
@@ -232,6 +233,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
