@@ -176,6 +176,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
@@ -207,6 +208,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
@@ -237,4 +239,5 @@
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
