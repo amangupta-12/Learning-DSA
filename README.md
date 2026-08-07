@@ -177,6 +177,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amangupta-12/Learning-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
@@ -211,6 +212,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
@@ -239,10 +241,15 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0216-combination-sum-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
