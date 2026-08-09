@@ -224,12 +224,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0876-middle-of-the-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
