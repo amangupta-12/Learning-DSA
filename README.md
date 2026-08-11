@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0206-reverse-linked-list) |
