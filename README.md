@@ -21,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/amangupta-12/Learning-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -226,6 +228,7 @@
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Counting
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
