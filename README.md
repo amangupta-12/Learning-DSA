@@ -32,6 +32,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -230,6 +231,7 @@
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Counting
