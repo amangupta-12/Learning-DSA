@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
