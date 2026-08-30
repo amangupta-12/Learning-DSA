@@ -13,6 +13,7 @@
 | [0063-unique-paths-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -232,6 +233,7 @@
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
