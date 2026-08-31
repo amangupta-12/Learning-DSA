@@ -66,6 +66,7 @@
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -120,6 +121,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -199,6 +201,7 @@
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
