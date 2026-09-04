@@ -50,6 +50,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
