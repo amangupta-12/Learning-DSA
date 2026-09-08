@@ -102,6 +102,7 @@
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3870-count-commas-in-range](https://github.com/amangupta-12/Learning-DSA/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
