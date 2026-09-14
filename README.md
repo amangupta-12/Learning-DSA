@@ -25,6 +25,7 @@
 | [0216-combination-sum-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
@@ -247,6 +249,7 @@
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/amangupta-12/Learning-DSA/tree/master/0799-champagne-tower) |
@@ -344,9 +347,14 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
