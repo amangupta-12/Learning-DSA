@@ -1,20 +1,29 @@
 class Solution {
-    private int solve(int idx,int[] nums,int amount,int[][] dp){
-        if(idx == 0){
-            if(amount%nums[idx] == 0) return 1;
-            return 0;
+   public int change(int amount, int[] coins) {
+    // int[][] dp = new int[coins.length][amount+1];
+        int[] prev = new int[amount+1];
+        int[] curr = new int[amount+1];
+
+        for(int target=0;target<=amount;target++){
+            if(target%coins[0] == 0){
+                prev[target] = 1;
+            }else{
+                prev[target] = 0;
+            }
         }
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-        int take = 0;
-        if(amount-nums[idx] >=0){
-        take = solve(idx,nums,amount-nums[idx],dp);
+
+        for(int i=1;i<coins.length;i++){
+            for(int target = 0;target<=amount;target++){
+                int take = 0;
+                if(target-coins[i]>=0){
+                    take = curr[target-coins[i]];
+                }
+                int skip = prev[target];
+
+                curr[target] = take + skip;
+            }
+            prev = curr;
         }
-        int skip = solve(idx-1,nums,amount,dp);
-        return dp[idx][amount] =  take + skip;
-    }
-    public int change(int amount, int[] coins) {
-        int[][] dp = new int[coins.length][amount+1];
-        for(int[] put : dp) Arrays.fill(put,-1);
-        return solve(coins.length-1,coins,amount,dp);
+        return prev[amount];
     }
 }
