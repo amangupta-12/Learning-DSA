@@ -30,6 +30,7 @@
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
@@ -253,6 +254,7 @@
 | [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/amangupta-12/Learning-DSA/tree/master/0799-champagne-tower) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -353,6 +355,7 @@
 | [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -362,4 +365,5 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
