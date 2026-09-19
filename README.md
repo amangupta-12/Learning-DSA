@@ -25,6 +25,7 @@
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/amangupta-12/Learning-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -277,6 +278,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/amangupta-12/Learning-DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
