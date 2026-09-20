@@ -1,23 +1,30 @@
 class Solution {
-    public int[][] merge(int[][] a) {
-         List<int[]> list = new ArrayList<>();
-
-         Arrays.sort(a, (b,c)->Integer.compare(b[0],c[0]));
-          int s = a[0][0];
-          int e = a[0][1];
-          for(int i=1;i<a.length;i++){
-            if(a[i][0] <= e){
-            
-                e = Math.max(a[i][1],e);
-            }else{
-                 list.add(new int[]{s,e});
-                s =  a[i][0];
-                e =  a[i][1];
-            
+    public int[][] merge(int[][] nums) {
+        Arrays.sort(nums,(a,b)->{
+            if(a[0] != b[0]){
+                return a[0]-b[0];
             }
-          }
-           list.add( new int[]{s,e});
-         
-         return list.toArray(new int[list.size()][]);
-    }
+            return a[1] - b[1];
+        });
+
+        List<int[]> list = new ArrayList<>();
+        int last = nums[0][1];
+        int start = nums[0][0];
+        list.add(new int[]{start ,last});
+        for(int i=1;i<nums.length;i++){
+            if(last >= nums[i][0]){
+               last = Math.max(last,nums[i][1]);
+                list.get(list.size()-1)[1] = last;
+            }else{
+                start = nums[i][0];
+                last = nums[i][1];
+                list.add(new int[] {start,last});
+            }
+        }
+        int[][] ans = new int[list.size()][2];
+        for(int i=0;i<list.size();i++){
+          ans[i] =  list.get(i);
+        }
+  return ans;
+  }
 }
