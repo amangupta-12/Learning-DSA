@@ -371,4 +371,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/amangupta-12/Learning-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
