@@ -1,58 +1,31 @@
-// class Solution {
-
-//     private boolean solve(int idx,int[] nums,int sum,int total,Boolean[][] dp){
-        
-//         if(idx == 0){
-//             return ((total - sum) == sum);
-//         }
-//         if(dp[idx][sum] != null) return dp[idx][sum];
-//         return dp[idx][sum] = (solve(idx-1,nums,sum+nums[idx],total,dp) || solve(idx-1,nums,sum,total,dp));
-//     }
-
-//     public boolean canPartition(int[] nums) {
-//         int total = 0;
-//         Boolean[][] dp = new Boolean[nums.length+1][20000];
-//         for(int i=0;i<nums.length;i++){
-//             total += nums[i];
-//         }
-//         return solve(nums.length-1,nums,0,total,dp);    
-//     }
-// }
-
-// Tabulation 
 class Solution {
-
+  
     public boolean canPartition(int[] nums) {
-
         int total = 0;
-
-        for(int i = 0; i < nums.length; i++) {
+        for(int i=0;i<nums.length;i++){
             total += nums[i];
         }
+        int target = (total/2);
+        if(total%2 != 0) return false;
+        boolean[][] dp = new boolean[nums.length][target+1];
 
-        if(total % 2 == 1) return false;
+            for(int i=0;i<nums.length;i++){
+                dp[i][0] = true;
+            }
+            if(nums[0]<=target) dp[0][nums[0]] = true;
 
-        int target = total / 2;
+            for(int i=1;i<nums.length;i++){
+                for(int j=0;j<=target;j++){
+                    boolean take = false;
+                    if(nums[i]<=j){
+                        take = dp[i-1][j-nums[i]];
+                    }
+                    boolean skip = dp[i-1][j];
 
-        boolean[][] dp = new boolean[nums.length + 1][target + 1];
-
-        for(int i = 0; i <= nums.length; i++) {
-            dp[i][0] = true;
-        }
-
-        for(int i = 1; i <= nums.length; i++) {
-            for(int j = 1; j <= target; j++) {
-
-                if(nums[i-1] <= j) {
-                    dp[i][j] = dp[i-1][j] ||
-                               dp[i-1][j - nums[i-1]];
-                }
-                else {
-                    dp[i][j] = dp[i-1][j];
+                    dp[i][j] = take || skip;
                 }
             }
-        }
-
-        return dp[nums.length][target];
+            return dp[nums.length-1][target];
     }
 }
+            
