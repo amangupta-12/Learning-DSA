@@ -219,6 +219,7 @@
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -267,6 +268,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/amangupta-12/Learning-DSA/tree/master/0799-champagne-tower) |
