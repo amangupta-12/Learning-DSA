@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/0053-maximum-subarray) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
