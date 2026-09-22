@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
@@ -73,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -278,6 +281,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Two Pointers
@@ -352,6 +356,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -389,4 +394,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
