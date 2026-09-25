@@ -223,6 +223,7 @@
 | [0006-zigzag-conversion](https://github.com/amangupta-12/Learning-DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/amangupta-12/Learning-DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/amangupta-12/Learning-DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
