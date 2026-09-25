@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amangupta-12/Learning-DSA/tree/master/0048-rotate-image) |
@@ -311,6 +312,7 @@
 | [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
