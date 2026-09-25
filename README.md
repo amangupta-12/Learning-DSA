@@ -17,6 +17,7 @@
 | [0057-insert-interval](https://github.com/amangupta-12/Learning-DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/amangupta-12/Learning-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/amangupta-12/Learning-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0118-pascals-triangle) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -309,6 +311,7 @@
 | [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -415,6 +418,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -424,4 +428,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/amangupta-12/Learning-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/amangupta-12/Learning-DSA/tree/master/1092-shortest-common-supersequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
