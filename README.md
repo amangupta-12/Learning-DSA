@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/amangupta-12/Learning-DSA/tree/master/0046-permutations) |
@@ -162,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
