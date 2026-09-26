@@ -1,27 +1,49 @@
 class Solution {
-    boolean solve(int i,int j,int k,String s,String t,String f,Boolean[][] dp){
-        if(i == s.length() && j == t.length()){
-            return true;
-        }
-        
-        if(dp[i][j] != null) return dp[i][j];
-        
-        boolean take = false;
-        boolean skip  = false;
-        if(i < s.length() && s.charAt(i) == f.charAt(k)){
-        take = solve(i+1,j,k+1,s,t,f,dp);
-        }
 
-         if(j < t.length() &&t.charAt(j) == f.charAt(k)){
-        skip = solve(i,j+1,k+1,s,t,f,dp);
-        }
-
-       return dp[i][j] = take || skip;
-    }
     public boolean isInterleave(String s, String t, String f) {
-        Boolean[][] dp = new Boolean[s.length()+1][t.length()+1];
-     
-        if((s.length() + t.length()) !=  f.length()) return false;
-        return solve(0,0,0,s,t,f,dp);
+
+        if(s.length() + t.length() != f.length()){
+            return false;
+        }
+
+        boolean[][] dp = new boolean[s.length() + 1][t.length() + 1];
+
+        dp[0][0] = true;
+
+        // Only s is used
+        for(int i = 1; i <= s.length(); i++){
+            if(s.charAt(i - 1) == f.charAt(i - 1)){
+                dp[i][0] = dp[i - 1][0];
+            }
+        }
+
+        // Only t is used
+        for(int j = 1; j <= t.length(); j++){
+            if(t.charAt(j - 1) == f.charAt(j - 1)){
+                dp[0][j] = dp[0][j - 1];
+            }
+        }
+
+        for(int i = 1; i <= s.length(); i++){
+            for(int j = 1; j <= t.length(); j++){
+
+                int k = i + j - 1;
+
+                boolean take = false;
+                boolean skip = false;
+
+                if(s.charAt(i - 1) == f.charAt(k)){
+                    take = dp[i - 1][j];
+                }
+
+                if(t.charAt(j - 1) == f.charAt(k)){
+                    skip = dp[i][j - 1];
+                }
+
+                dp[i][j] = take || skip;
+            }
+        }
+
+        return dp[s.length()][t.length()];
     }
 }
