@@ -83,6 +83,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
@@ -119,6 +120,7 @@
 | [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -323,6 +325,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amangupta-12/Learning-DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
@@ -381,6 +384,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
