@@ -216,6 +216,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
@@ -235,6 +236,7 @@
 | [0006-zigzag-conversion](https://github.com/amangupta-12/Learning-DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amangupta-12/Learning-DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amangupta-12/Learning-DSA/tree/master/0072-edit-distance) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
