@@ -236,6 +236,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/amangupta-12/Learning-DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amangupta-12/Learning-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0097-interleaving-string) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amangupta-12/Learning-DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0063-unique-paths-ii) |
@@ -365,6 +368,7 @@
 | [0002-add-two-numbers](https://github.com/amangupta-12/Learning-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0234-palindrome-linked-list) |
