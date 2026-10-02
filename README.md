@@ -63,6 +63,7 @@
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -179,6 +180,7 @@
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1288-remove-covered-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
