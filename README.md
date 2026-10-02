@@ -26,6 +26,7 @@
 | [0120-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/amangupta-12/Learning-DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@
 | [0076-minimum-window-substring](https://github.com/amangupta-12/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amangupta-12/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -245,6 +247,7 @@
 | [0115-distinct-subsequences](https://github.com/amangupta-12/Learning-DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amangupta-12/Learning-DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -303,6 +306,7 @@
 | [0118-pascals-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amangupta-12/Learning-DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amangupta-12/Learning-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -464,4 +468,16 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/amangupta-12/Learning-DSA/tree/master/0986-interval-list-intersections) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
