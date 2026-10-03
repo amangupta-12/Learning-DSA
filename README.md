@@ -116,6 +116,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -146,6 +147,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/amangupta-12/Learning-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -492,14 +494,17 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
