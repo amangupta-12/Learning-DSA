@@ -1,21 +1,23 @@
 class Solution {
-    int solve(int idx ,int[] nums,int prev,int[][] dp){
-        if(idx >= nums.length) return 0; 
-
-        if(dp[idx][prev+1] != -1) return dp[idx][prev+1];
-
-        int take = 0;
-        int skip = 0;
-        if(prev == -1 || nums[prev] < nums[idx]){
-            take = 1 + solve(idx+1,nums,idx,dp);
-        }
-            skip = solve(idx+1,nums,prev,dp);
+    
+    public int lengthOfLIS(int[] nums) {
+        int[] prev = new int[nums.length+1];
+        int[] curr = new int[nums.length+1];
+            
+            for(int i=nums.length-1 ; i>=0 ; i--){
+                for(int j = i-1; j >= -1 ; j--){
+                int take = 0;
+                int skip = 0;
+                if(j == -1 || nums[j] < nums[i]){
+                    take = 1 + prev[i+1];
+                }
+                    skip = prev[j+1];
         
-        return dp[idx][prev+1] = Math.max(take , skip);
+                      curr[j+1] = Math.max(take , skip);
+                }
+                prev = curr;
+            }
+
+            return curr[0];
     }
-     public int lengthOfLIS(int[] nums) {
-        int[][] dp = new int[nums.length][nums.length+1];
-        for(int[] put : dp) Arrays.fill(put , -1);
-        return solve(0,nums,-1,dp);
-     }
 }
