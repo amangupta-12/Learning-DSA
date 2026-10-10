@@ -10,44 +10,27 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode tail = new ListNode();
-        ListNode pointer =  new ListNode();
-        ListNode head = new ListNode();
-
-        if(l1 == null) return l2;
-        if(l2 == null) return l1;
-
-        if(l1.val > l2.val){
-            tail = l2;
-            pointer = l1;
-            head = l2;
+       
+       ListNode tail = new ListNode();
+        ListNode head = tail;
+       while(l1 != null && l2 != null){
+        if(l1.val <= l2.val){
+            tail.next = l1;
+            l1 = l1.next;
         }else{
-            tail = l1;
-            pointer = l2;
-            head = l1;
+            tail.next = l2;
+            l2 = l2.next;
         }
-
-        while(tail.next != null && pointer != null){
-            if(tail.next.val > pointer.val){
-                ListNode temp = tail.next;
-                ListNode nxtPointer = pointer.next;
-
-                tail.next = pointer;
-                pointer.next = temp;
-
-                tail = tail.next;
-                pointer = nxtPointer;
-                
-            }else{
-                tail = tail.next;
-            }
+        tail = tail.next;
+       }
+        if(l1 != null){
+            tail.next = l1;
         }
-
-        if( tail.next == null){
-            tail.next = pointer;
+         if(l2 != null){
+            tail.next = l2;
         }
 
 
-        return head;
+       return head.next;
     }
 }
