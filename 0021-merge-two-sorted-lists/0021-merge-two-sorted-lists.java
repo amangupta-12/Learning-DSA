@@ -9,33 +9,45 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy =  new ListNode(-1);
-        ListNode tail =  dummy;        
-        ListNode one = list1;
-        ListNode two = list2; 
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode tail = new ListNode();
+        ListNode pointer =  new ListNode();
+        ListNode head = new ListNode();
 
-        while(one!=null && two!=null){
-          if(one.val  <= two.val){
-           tail.next = one;
-           one =  one.next;
-          }else{
-            tail.next = two;
-            two  = two.next;
-          }
-          tail = tail.next;
-        }
-        while(one!=null){
-            tail.next =  one;
-            one = one.next;
-            tail = tail.next;
-        }
-         while(two!=null){
-            tail.next =  two;
-            two = two.next;
-            tail = tail.next;
+        if(l1 == null) return l2;
+        if(l2 == null) return l1;
+
+        if(l1.val > l2.val){
+            tail = l2;
+            pointer = l1;
+            head = l2;
+        }else{
+            tail = l1;
+            pointer = l2;
+            head = l1;
         }
 
-        return dummy.next;
+        while(tail.next != null && pointer != null){
+            if(tail.next.val > pointer.val){
+                ListNode temp = tail.next;
+                ListNode nxtPointer = pointer.next;
+
+                tail.next = pointer;
+                pointer.next = temp;
+
+                tail = tail.next;
+                pointer = nxtPointer;
+                
+            }else{
+                tail = tail.next;
+            }
+        }
+
+        if( tail.next == null){
+            tail.next = pointer;
+        }
+
+
+        return head;
     }
 }
