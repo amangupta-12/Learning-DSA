@@ -244,6 +244,7 @@
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/amangupta-12/Learning-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/amangupta-12/Learning-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amangupta-12/Learning-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amangupta-12/Learning-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
 ## Queue
@@ -434,6 +437,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
