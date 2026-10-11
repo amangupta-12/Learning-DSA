@@ -84,6 +84,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/amangupta-12/Learning-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3169-count-days-without-meetings](https://github.com/amangupta-12/Learning-DSA/tree/master/3169-count-days-without-meetings) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -575,4 +576,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amangupta-12/Learning-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amangupta-12/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
