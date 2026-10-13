@@ -87,6 +87,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3169-count-days-without-meetings](https://github.com/amangupta-12/Learning-DSA/tree/master/3169-count-days-without-meetings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -210,6 +211,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3169-count-days-without-meetings](https://github.com/amangupta-12/Learning-DSA/tree/master/3169-count-days-without-meetings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
