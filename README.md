@@ -151,6 +151,7 @@
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/amangupta-12/Learning-DSA/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -326,6 +327,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
