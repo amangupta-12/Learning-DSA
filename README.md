@@ -89,6 +89,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3169-count-days-without-meetings](https://github.com/amangupta-12/Learning-DSA/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -204,6 +205,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
