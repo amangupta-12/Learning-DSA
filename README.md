@@ -311,6 +311,7 @@
 | [0006-zigzag-conversion](https://github.com/amangupta-12/Learning-DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/amangupta-12/Learning-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/amangupta-12/Learning-DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/amangupta-12/Learning-DSA/tree/master/0044-wildcard-matching) |
@@ -433,6 +434,7 @@
 | [0018-4sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amangupta-12/Learning-DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -646,4 +648,20 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
