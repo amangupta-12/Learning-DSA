@@ -72,6 +72,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -248,6 +249,7 @@
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -268,6 +270,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Union-Find
 |  |
@@ -277,6 +280,7 @@
 | [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -378,6 +382,7 @@
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/1463-cherry-pickup-ii) |
 ## Dynamic Programming
 |  |
