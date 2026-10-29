@@ -157,6 +157,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/amangupta-12/Learning-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/amangupta-12/Learning-DSA/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -335,6 +336,7 @@
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/amangupta-12/Learning-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/amangupta-12/Learning-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
@@ -497,6 +499,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/amangupta-12/Learning-DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/amangupta-12/Learning-DSA/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amangupta-12/Learning-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
