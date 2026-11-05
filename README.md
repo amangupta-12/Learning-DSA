@@ -48,6 +48,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0480-sliding-window-median](https://github.com/amangupta-12/Learning-DSA/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0503-next-greater-element-ii) |
@@ -115,6 +116,7 @@
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amangupta-12/Learning-DSA/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amangupta-12/Learning-DSA/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amangupta-12/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
@@ -196,6 +198,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amangupta-12/Learning-DSA/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
@@ -376,6 +379,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amangupta-12/Learning-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/amangupta-12/Learning-DSA/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/amangupta-12/Learning-DSA/tree/master/0480-sliding-window-median) |
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
@@ -686,4 +690,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/amangupta-12/Learning-DSA/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
