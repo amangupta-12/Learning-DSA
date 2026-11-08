@@ -76,6 +76,7 @@
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -263,6 +264,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -286,6 +288,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -298,6 +301,7 @@
 | [0695-max-area-of-island](https://github.com/amangupta-12/Learning-DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -405,6 +409,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/1463-cherry-pickup-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
@@ -454,6 +459,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/amangupta-12/Learning-DSA/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
