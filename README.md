@@ -57,6 +57,7 @@
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/amangupta-12/Learning-DSA/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/amangupta-12/Learning-DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/amangupta-12/Learning-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -371,6 +372,7 @@
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/amangupta-12/Learning-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amangupta-12/Learning-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/amangupta-12/Learning-DSA/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amangupta-12/Learning-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
