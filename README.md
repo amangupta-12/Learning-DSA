@@ -359,6 +359,7 @@
 | [1092-shortest-common-supersequence](https://github.com/amangupta-12/Learning-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amangupta-12/Learning-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/amangupta-12/Learning-DSA/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/amangupta-12/Learning-DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -483,6 +484,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/amangupta-12/Learning-DSA/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/amangupta-12/Learning-DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amangupta-12/Learning-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amangupta-12/Learning-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
