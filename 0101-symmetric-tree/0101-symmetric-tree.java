@@ -14,30 +14,34 @@
  * }
  */
 class Solution {
+
     public boolean isSymmetric(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int n = q.size();
-            List<Integer> level = new ArrayList<>();
-            for(int i=0;i<n;i++){
-                TreeNode node = q.poll();
+        if (root.left == null && root.right == null)
+            return true;
+        if (root.left == null || root.right == null)
+            return false;
+        q.add(root.left);
+        q.add(root.right);
+        while (!q.isEmpty()) {
+            int size = q.size();
+            TreeNode left = q.poll();
+            TreeNode right = q.poll();
 
-               int left = (node.left != null) ? node.left.val : -101;
-               int right = (node.right != null) ? node.right.val : -101;
-
-                level.add(left);
-                level.add(right);
-
-                if(node.left !=null) q.add(node.left);
-                if(node.right !=null) q.add(node.right);
-            }
-            List<Integer> reversed =  new ArrayList<>(level);
-            Collections.reverse(reversed);
-            if(!(reversed.equals(level))){
+            if (left == null && right == null)
+                continue;
+            if (left == null || right == null)
                 return false;
-            }
+
+            if (left.val != right.val)
+                return false;
+
+            q.add(left.left);
+            q.add(right.right);
+            q.add(left.right);
+            q.add(right.left);
         }
+
         return true;
     }
 }
