@@ -84,6 +84,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/amangupta-12/Learning-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -154,6 +155,7 @@
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -169,6 +171,7 @@
 | [0523-continuous-subarray-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/amangupta-12/Learning-DSA/tree/master/0528-random-pick-with-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/amangupta-12/Learning-DSA/tree/master/2409-count-days-spent-together) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -460,6 +463,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amangupta-12/Learning-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Counting
 |  |
