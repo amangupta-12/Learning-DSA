@@ -86,6 +86,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/amangupta-12/Learning-DSA/tree/master/1539-kth-missing-positive-number) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1664-ways-to-make-a-fair-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -134,6 +135,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amangupta-12/Learning-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/amangupta-12/Learning-DSA/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -157,6 +159,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/amangupta-12/Learning-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1664-ways-to-make-a-fair-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -384,6 +387,7 @@
 | [0605-can-place-flowers](https://github.com/amangupta-12/Learning-DSA/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amangupta-12/Learning-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
