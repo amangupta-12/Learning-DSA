@@ -100,6 +100,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3169-count-days-without-meetings](https://github.com/amangupta-12/Learning-DSA/tree/master/3169-count-days-without-meetings) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amangupta-12/Learning-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -143,6 +144,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2747-count-zero-request-servers](https://github.com/amangupta-12/Learning-DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1664-ways-to-make-a-fair-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3903-smallest-stable-index-i](https://github.com/amangupta-12/Learning-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -395,6 +398,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/amangupta-12/Learning-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2939-maximum-xor-product](https://github.com/amangupta-12/Learning-DSA/tree/master/2939-maximum-xor-product) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amangupta-12/Learning-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
@@ -474,6 +478,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amangupta-12/Learning-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Counting
 |  |
 | ------- |
@@ -703,6 +708,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amangupta-12/Learning-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/amangupta-12/Learning-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3886-sum-of-sortable-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## DP on Trees
 |  |
