@@ -379,6 +379,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amangupta-12/Learning-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/amangupta-12/Learning-DSA/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/amangupta-12/Learning-DSA/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amangupta-12/Learning-DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
