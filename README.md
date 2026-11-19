@@ -132,6 +132,7 @@
 | [0525-contiguous-array](https://github.com/amangupta-12/Learning-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0567-permutation-in-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/amangupta-12/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -280,6 +281,7 @@
 | [0695-max-area-of-island](https://github.com/amangupta-12/Learning-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
@@ -303,6 +305,7 @@
 | [0695-max-area-of-island](https://github.com/amangupta-12/Learning-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/amangupta-12/Learning-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/amangupta-12/Learning-DSA/tree/master/0785-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
@@ -686,6 +689,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/amangupta-12/Learning-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -705,6 +709,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/amangupta-12/Learning-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
