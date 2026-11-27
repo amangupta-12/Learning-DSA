@@ -8,21 +8,20 @@
  * }
  */
 class Solution {
-    TreeNode solve(TreeNode root , TreeNode p , TreeNode q){
-        if(root == null || root == p || root == q) return root;
+   TreeNode solve(TreeNode root, TreeNode p , TreeNode q){
+    if(root == null || root == p || root == q) return root;
 
-        TreeNode left = solve(root.left , p , q);
-        TreeNode right = solve(root.right , p , q);
+    TreeNode left = solve(root.left , p ,q);
+    TreeNode right = solve(root.right , p ,q);
 
-        if(left == null){
-            return right;
-        }else if(right == null){
-            return left;
-        }
-
-        
-        return (left != null && right != null) ? root : null;
+    if(left == null && right == null) return null;
+    if(left != null && right != null){
+        return root;
+    }else if(left != null){
+        return left;
     }
+    return right;
+   }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
        return solve(root , p , q);
     }
