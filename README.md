@@ -283,6 +283,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/amangupta-12/Learning-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amangupta-12/Learning-DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -383,6 +384,7 @@
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/amangupta-12/Learning-DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/amangupta-12/Learning-DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/amangupta-12/Learning-DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amangupta-12/Learning-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -577,6 +579,7 @@
 | [0090-subsets-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/amangupta-12/Learning-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/amangupta-12/Learning-DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
@@ -704,6 +707,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/amangupta-12/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amangupta-12/Learning-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -729,6 +733,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/amangupta-12/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amangupta-12/Learning-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amangupta-12/Learning-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
