@@ -13,38 +13,34 @@
  *     }
  * }
  */
+ class Pair{
+    TreeNode node;
+    int idx;
+        
+        Pair(TreeNode node , int idx){
+            this.node = node;
+            this.idx = idx;
+        }
+ }
+
 class Solution {
     int max = 0;
-    HashMap<Integer,Integer> map = new HashMap<>();
-    void depth(TreeNode root , int d){
-        if(root == null) return;
+    
+    Pair lca(TreeNode root){
+        if(root == null) return new Pair(null , 0);
 
-        max = Math.max(max ,d);
-        map.put(root.val , d);
+        Pair l = lca(root.left);
+        Pair r = lca(root.right);
 
-        if(root.left != null){
-            depth(root.left , d+1);
+        if(l.idx == r.idx){
+            return new Pair(root , l.idx+1);
+        }else if(l.idx > r.idx){
+            return new Pair(l.node , l.idx+1);
+        }else{
+            return new Pair(r.node , r.idx+1);
         }
-        if(root.right != null){
-            depth(root.right , d+1);
-        }
-    }
-
-    TreeNode lca(TreeNode root){
-        if(root == null) return null;
-        if(map.get(root.val) != null && map.get(root.val) == max){
-            return root;
-        }
-        TreeNode left = lca(root.left);
-        TreeNode right = lca(root.right);
-
-        if(left != null && right != null) return root;
-        else if(left != null) return left;
-
-        return right;
     }
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        depth(root,0);
-        return lca(root);
+        return lca(root).node;
     }
 }
