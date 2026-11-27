@@ -78,6 +78,7 @@
 | [0994-rotting-oranges](https://github.com/amangupta-12/Learning-DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/amangupta-12/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/amangupta-12/Learning-DSA/tree/master/1094-car-pooling) |
+| [1110-delete-nodes-and-return-forest](https://github.com/amangupta-12/Learning-DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
@@ -141,6 +142,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/amangupta-12/Learning-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amangupta-12/Learning-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/amangupta-12/Learning-DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amangupta-12/Learning-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amangupta-12/Learning-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/amangupta-12/Learning-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -288,6 +290,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/amangupta-12/Learning-DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/amangupta-12/Learning-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amangupta-12/Learning-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -700,6 +703,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/amangupta-12/Learning-DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -722,6 +726,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amangupta-12/Learning-DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/amangupta-12/Learning-DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/amangupta-12/Learning-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Enumeration
 |  |
